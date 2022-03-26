@@ -5,14 +5,25 @@ body{
     font-size: 18px;
 }
 
+h1{
+    font-family: arial;
+    font-size: 18px;
+    text-align: center;
+    color: #049faa;
+
+}
+
 table, th, td {
     border: 1px solid;
-    width: 100%;
+    width: 80%;
+    text-align: center;
+    padding: 15px;
 
 }
   
   th {
     height: 70px;
+    background-color: #049faa;
   }
 
 .menu{
